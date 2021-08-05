@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 I am Sanskriti from India, a freshman year student pursuing B.Tech in Computer Science and Engineering. I am skilled in Programming Languages like C and Java.
 
 - 🔭 I’m currently working on my GoLang tech stack.
-- 🌱 I’m currently learning stuffs about Infrastructure as a Code and its tools.
+- 🌱 For now learning about Infrastructure as a Code and its tools.
 - 🤔 I’m looking for help with Linux Installation.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanskriti-harmukh-81b343206/) || [Twitter](https://twitter.com/SanskritiHarmu1)
 - 😄 Pronouns: She/Her.
