@@ -1,9 +1,9 @@
-<h1 align="center">Hey 👋, I'm Sanskriti Harmukh</h1>
-<h3 align="center">Infrastructure and Cloud</h3>
+<h1 align="left">Hey 👋, I'm Sanskriti Harmukh</h1>
+<h3 align="left">Infrastructure and Cloud</h3>
 
 - 🔭 I’m currently working on **Protocols and Infrastructure as a code.**
 
-- 🌱 I’m currently learning **my GoLang tech stack.**
+- 🌱 I’m currently learning **GoLang .**
 
 - 🤝 I’m looking for help with **Linux.**
 
