@@ -1,6 +1,6 @@
 ### Hey there 👋
 #### I am Sanskriti Harmukh
-#### Infrastructure and Cloud
+<!--#### Infrastructure and Cloud-->
 <!--![Infrastructure and Cloud](https://github.com/SanskritiHarmukh/SanskritiHarmukh/blob/main/Sanskriti.jpg)-->
 
 A freshman year student pursuing B.Tech in Computer Science and Engineering. I am skilled in Programming Languages like C and Java.
