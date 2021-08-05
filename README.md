@@ -13,4 +13,4 @@ I am Sanskriti from India, a freshman year student pursuing B.Tech in Computer S
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I love playing Ukulele.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Sanskriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanskritiHarmukh)](https://github.com/SanskritiHarmukh/github-readme-stats)
