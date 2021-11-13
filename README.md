@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Protocols and Infrastructure as a code.**
 
-- 🌱 I’m currently learning **GoLang and hands-on Containers .**
+- 🌱 I’m currently learning **GoLang and hands-on Containers.**
 
 - 🤝 I’m looking for help with **Linux.**
 
