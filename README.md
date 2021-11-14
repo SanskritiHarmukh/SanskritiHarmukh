@@ -1,4 +1,4 @@
-![Hello](https://user-images.githubusercontent.com/74777863/141683842-85927962-3d45-471c-8a60-873a210a2aa8.png)
+
 <h1 align="left">Hey there👋, I'm Sanskriti Harmukh</h1>
 <h3 align="left">A sophomore pursuing B.Tech in Computer Science and Engineering. I am a newbie and thus, exploring different field and learning from amazing developers and folks out there.</h3>
 
