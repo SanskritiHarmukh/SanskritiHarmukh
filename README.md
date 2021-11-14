@@ -1,3 +1,4 @@
+![Hello](C:\Users\ASUS\Downloads)
 <h1 align="left">Hey there👋, I'm Sanskriti Harmukh</h1>
 <h3 align="left">A sophomore pursuing B.Tech in Computer Science and Engineering. I am a newbie and thus, exploring different field and learning from amazing developers and folks out there.</h3>
 
