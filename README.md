@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GoLang and hands-on Containers.**
 
-- 🤝 I’m looking for help with **Linux.**
+- 🤝 I’m looking for help with **Non-Relational Databases.**
 
 - 📫 How to reach me **sanskritiharmukh1908@gmail.com**
 
