@@ -18,7 +18,7 @@
   
 - Devops / Cloud Lead and Women in Tech Lead at **Google Developer Students Club.**
   
-- Core Team Member **Cloud Native Computing Foundation Durg-Asia.**
+- Core Team Member at **Cloud Native Computing Foundation Durg-Asia.**
   
 - Facilitated 336 students in **#30DaysofGoogleCloud** and conducted session in [youtube](https://youtu.be/bmtzwh6JuPQ) and [discord](https://discord.com/invite/MEu92PcNnP). 
   
