@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey there👋, I'm Sanskriti Harmukh</h1>
-<h3 align="center">A sophomore pursuing B.Tech in Computer Science and Engineering. I am a newbie and thus, exploring different field and learning from amazing developers and folks out there.</h3>
+<h3 align="center">A sophomore pursuing B.Tech in Computer Science and Engineering. I am a newbie and thus, exploring different fields and learning from amazing developers out there.</h3>
 
 - 🔭 I’m currently working on `Protocols and Infrastructure as a code.`
 
