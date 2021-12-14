@@ -13,7 +13,7 @@
 - ⚡ Fun fact : **I love to play the *Ukulele.***
 
 
-<h3 align="center">Volunteering and Working Experiences:</h3>
+<h3 align="center">Volunteering and Community Experiences:</h3>
 <p align="center">
   
 - Devops / Cloud Lead and Women in Tech Lead at **Google Developer Students Club.**
