@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there👋, I'm Sanskriti Harmukh</h1>
+<h1 align="center">Hey there👋, I'm Sanskriti Harmukh </h1>
 
 ![Sanskriti Harmukh](https://user-images.githubusercontent.com/74777863/152588843-5a2ef0f1-386b-43c2-82eb-6f61bb7cd9d9.gif)
 
