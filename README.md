@@ -12,6 +12,8 @@
 
 - 🤝 I’m looking for help with `Non-Relational Databases.`
 
+- 📝 I love to document my learnings in the form of `Short notes and twitter threads.`
+
 - 📫 How to reach me **sanskritiharmukh1908@gmail.com**
 
 - ⚡ Fun fact : **I love to play the *Ukulele.***
