@@ -6,7 +6,7 @@
 
 <h3 align="center">A sophomore pursuing B.Tech in Computer Science and Engineering. I am a newbie and thus, exploring different fields and learning from amazing developers out there.</h3>
 
-- 🔭 I’m currently working on `Protocols and Infrastructure as a code.`
+- 🔭 I’m currently working on `Infrastructure as a code.`
 
 - 🌱 I’m currently learning `GoLang and hands-on Containers.`
 
