@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey there👋, I'm Sanskriti Harmukh </h1>
 
-![Sanskriti Harmukh](https://user-images.githubusercontent.com/74777863/153622316-c4bcd3b2-648a-4795-89a3-96a9d0eb9c2d.gif)
+![Sanskriti Harmukh](https://user-images.githubusercontent.com/74777863/153626387-5d863959-6914-46cc-83df-57a1d0c42ad7.gif)
 
 
 <h3 align="center">A sophomore pursuing B.Tech in Computer Science and Engineering. I am a newbie and thus, exploring different fields and learning from amazing developers out there.</h3>
