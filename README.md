@@ -26,7 +26,7 @@
   
 - Core Team Member at **Cloud Native Computing Foundation Durg-Asia.**
   
-- Facilitated 336 students in **#30DaysofGoogleCloud** and conducted sessions in [youtube](https://youtu.be/bmtzwh6JuPQ) and [discord](https://discord.com/invite/MEu92PcNnP). 
+- Facilitated 336 students in **#30DaysofGoogleCloud** campaign and conducted sessions in [youtube](https://youtu.be/bmtzwh6JuPQ) and [discord](https://discord.com/invite/MEu92PcNnP). 
   
 - **AngelHack** Student Ambassador.
   
