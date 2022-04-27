@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on `Infrastructure as a code.`
 
-- 🌱 I’m currently learning `GoLang and hands-on Containers.`
+- 🌱 I’m currently learning `Containerization and Kubernetes.`
 
-- 🤝 I’m looking for help with `Non-Relational Databases.`
+- 🤝 I’m looking for `Remote DevOps Internships.`
 
 - 📝 I love to document my learnings in the form of `Short notes and twitter threads.`
 
