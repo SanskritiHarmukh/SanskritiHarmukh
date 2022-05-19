@@ -4,7 +4,7 @@
 <p align="center"><img align="center" height=350 width=600 src="https://user-images.githubusercontent.com/74777863/159042342-d1c11ea5-e0f2-4b44-a962-e3c7e12f6447.gif" alt="Sanskriti Harmukh" /></p>
 
 
-<h3 align="center">A sophomore pursuing B.Tech in Computer Science and Engineering. I am a newbie and thus, exploring different fields and learning from amazing developers out there.</h3>
+<h3 align="center">I am a newbie and thus, exploring different fields and learning from amazing developers out there.</h3>
 
 - 🔭 I’m currently working on `Infrastructure as a code.`
 
