@@ -6,7 +6,7 @@
 
 <h3 align="center">I am a newbie and thus, exploring different fields and learning from amazing developers out there.</h3>
 
-- 🔭 I’m currently working on `Infrastructure as a code.`
+- 🔭 I’m currently working on `Infrastructure as a code and a game development project.`
 
 - 🌱 I’m currently learning `Containerization and Kubernetes.`
 
