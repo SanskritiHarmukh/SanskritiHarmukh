@@ -22,15 +22,15 @@
 <h3 align="center">Volunteering and Community Experiences:</h3>
 <p align="center">
   
-- Devops / Cloud Lead and Women in Tech Lead at **Google Developer Students Club.**
+- Women in Tech Lead at **Google Developer Students Club.**
   
-- Core Team Member at **Cloud Native Computing Foundation Durg-Asia.**
+- Co-organizer at **Cloud Native Computing Foundation Durg-Asia.**
   
 - Facilitated 336 students in **#30DaysofGoogleCloud** campaign and conducted sessions in [youtube](https://youtu.be/bmtzwh6JuPQ) and [discord](https://discord.com/invite/MEu92PcNnP). 
   
-- **AngelHack** Student Ambassador.
+- **Beta Microsoft Learn Student Ambassador.**
   
-- Member at **OpinCo Community.**
+
   
 
 
