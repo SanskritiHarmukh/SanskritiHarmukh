@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey there👋, I'm Sanskriti Harmukh </h1>
 
-<p align="center"><img align="center" height=350 width=600 src="https://user-images.githubusercontent.com/74777863/159042342-d1c11ea5-e0f2-4b44-a962-e3c7e12f6447.gif" alt="Sanskriti Harmukh" /></p>
+<p align="center"><img align="center" height=350 width=700 src="https://user-images.githubusercontent.com/74777863/159042342-d1c11ea5-e0f2-4b44-a962-e3c7e12f6447.gif" alt="Sanskriti Harmukh" /></p>
 
 
 <h3 align="center">I am a newbie and thus, exploring different fields and learning from amazing developers out there.</h3>
