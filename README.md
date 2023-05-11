@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on `Infrastructure as a code and a game development project.`
+- 🔭 I’m currently working on `Infrastructure as a code and FLutter for mobile development.`
 
 - 🌱 I’m currently learning `Containerization and Kubernetes.`
 
