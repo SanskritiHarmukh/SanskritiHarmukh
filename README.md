@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on `Infrastructure as a code and FLutter for mobile development.`
 
-- 🌱 I’m currently learning `Containerization and Kubernetes.`
+- 🌱 I’m currently learning `Containerization and Orchestration.`
 
-- 🤝 I’m looking for `Remote DevOps Internships.`
+- 🤝 I’m looking for `Remote Developer relations / Developer Advocate / DevOps Internships.`
 
-- 📝 I love to document my learnings in the form of `Short notes and twitter threads.`
+- 📝 I love to document my learnings in the form of `blogs and twitter threads.`
 
 - 📫 How to reach me **sanskritiharmukh1908@gmail.com**.
 
