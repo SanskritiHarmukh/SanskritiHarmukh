@@ -82,9 +82,10 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskritiharmukh&show_icons=true&locale=en&layout=compact" alt="sanskritiharmukh" /></p>-->
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskritiharmukh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&show_icons=true&locale=en" alt="sanskritiharmukh" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SanskritiHarmukh&theme=prussian&show_icons=true&hide_border=true&count_private=false" alt="sanskritiharmukh" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskritiharmukh&&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="sanskritiharmukh"  /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanskritiHarmukh&theme=prussian&hide_border=true" alt="sanskritiharmukh" alt="sanskritiharmukh"  /></p>
 
-<p align="center"><a href="https://github.com/SanskritiHarmukh/github-readme-stats"><img alt="Sanskriti's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskritiHarmukh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<p align="center"><a href="https://github.com/SanskritiHarmukh/github-readme-stats"><img alt="Sanskriti's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskritiHarmukh&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="sanskritiharmukh" /></a>
+
 
