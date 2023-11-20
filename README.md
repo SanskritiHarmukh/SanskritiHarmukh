@@ -26,14 +26,16 @@
   
 - **LiFT'22 Scholar.**
   
-- Women in Tech Lead at **Google Developer Students Club.**
-  
 - Co-organizer at **Cloud Native Computing Foundation Durg-Asia.**
   
 - Invited to record a podcast on **What is Keploy?** Check it out [here](https://youtu.be/w9Wk0PgMUmc) with [demo](https://www.youtube.com/watch?v=0stKYDXYM94).
-  
+
+- In late October, I represented [Hoppscotch](https://github.com/hoppscotch/hoppscotch) at Experience Labs during IndiaFOSS 3.0 in Bengaluru. IndiaFOSS is a conference initiated by FOSSUnited to support and bring awareness to new and existing open-source projects. I explained what Hoppscotch is and troubleshoot the queries of hundreds of attendees who visited our booth.
+
 - [Delivered a talk on Docker](https://www.linkedin.com/feed/update/urn:li:activity:7050766875982520320) where I covered about Monolith architecture, Microservices, Containerization, VMs, V-profile, Docker, Basic Comands and live demo on Docker by building an app and publishing the image at DockerHub.
-  
+
+- I initiated the idea of introducing existing open-source projects to the audience of Chhattisgarh to foster the open-source ecosystem here. 140 audience participated in the conference and we had 10 speakers who advocated the projects they have either maintained or contributed to such as [Keploy](https://github.com/keploy/keploy), [Directus](https://github.com/directus/directus), [Calyxos](https://github.com/CalyxOS/calyxos), [Tensorflow](https://github.com/tensorflow/tensorflow), etc.
+
 - Facilitated 336 students in **#30DaysofGoogleCloud** campaign and conducted sessions in [youtube](https://youtu.be/bmtzwh6JuPQ) and [discord](https://discord.com/invite/MEu92PcNnP). 
   
 - **Beta Microsoft Learn Student Ambassador.**
