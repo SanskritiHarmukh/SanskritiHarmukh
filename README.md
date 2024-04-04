@@ -5,7 +5,7 @@
 
 ![Notion Banner (3)](https://github.com/Sanskriti-Harmukh/Sanskriti-Harmukh/assets/165848320/23bff20c-62d1-409f-b4ea-3e968ded0a7b)
 
-FYI: My [previous account](https://github.com/Sanskriti-Harmukh) got disabled due to some compromise. Please head there to see little contributions that I made. If you're lucky, you'll be able to see the account.
+
 
 - 🔭 I’m currently working on `Infrastructure as a code and Cloud Computing.`
 
