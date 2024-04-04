@@ -1,10 +1,11 @@
 
 <h1 align="center">Hey there👋, I'm Sanskriti Harmukh </h1>
 
-<p align="center"><img align="center" height=350 width=700 src="https://user-images.githubusercontent.com/74777863/159042342-d1c11ea5-e0f2-4b44-a962-e3c7e12f6447.gif" alt="Sanskriti Harmukh" /></p>
 
 
+![Notion Banner (3)](https://github.com/Sanskriti-Harmukh/Sanskriti-Harmukh/assets/165848320/23bff20c-62d1-409f-b4ea-3e968ded0a7b)
 
+FYI: My [previous account](https://github.com/Sanskriti-Harmukh) got disabled due to some compromise. Please head there to see little contributions that I made. If you're lucky, you'll be able to see the account.
 
 - 🔭 I’m currently working on `Infrastructure as a code and Cloud Computing.`
 
@@ -14,9 +15,10 @@
 
 - 📝 I love to document my learnings in the form of `blogs and twitter threads.`
 
-- 📫 How to reach me **sanskritiharmukh1908@gmail.com**.
-
 - ⚡ Fun fact : **I love to play the *Ukulele.***
+
+P.S. I enjoy infusing humor into my talks, creating a light-hearted atmosphere while breaking down complex concepts for easier understanding. (Though, I'll admit, sometimes my jokes can be a bit lame!)
+
 
 
 <h3 align="center">Volunteering and Community Experiences:</h3>
@@ -25,8 +27,6 @@
 - **GitHub Campus Expert.**
   
 - **LiFT'22 Scholar.**
-  
-- Co-organizer at **Cloud Native Computing Foundation Durg-Asia.**
   
 - Invited to record a podcast on **What is Keploy?** Check it out [here](https://youtu.be/w9Wk0PgMUmc) with [demo](https://www.youtube.com/watch?v=0stKYDXYM94).
 
@@ -55,8 +55,8 @@
 <a href="https://twitter.com/Senzkriti" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://hashnode.com/@SanskritiHarmukh" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+<a href="https://dev.to/sanskritiharmukh" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%232962FF.svg?&style=for-the-badge&logo=Dev&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
@@ -65,7 +65,6 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" alt="go logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" width="52" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
