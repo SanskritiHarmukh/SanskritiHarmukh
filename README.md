@@ -7,18 +7,7 @@
 
 
 
-- 🔭 I’m currently working on `Infrastructure as a code and Cloud Computing.`
-
-- 🌱 I’m currently learning `Containerization and Orchestration.`
-
-- 🤝 I’m looking for `Remote Developer relations / Developer Advocate`
-
-- 📝 I love to document my learnings in the form of `blogs and twitter threads.`
-
-- ⚡ Fun fact : **I love to play the *Ukulele.***
-
 P.S. I enjoy infusing humor into my talks, creating a light-hearted atmosphere while breaking down complex concepts for easier understanding. (Though, I'll admit, sometimes my jokes can be a bit lame!)
-
 
 
 <h3 align="center">Volunteering and Community Experiences:</h3>
